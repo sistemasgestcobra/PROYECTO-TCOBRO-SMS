@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante">
+  <infoTributaria>
+    <ambiente>1</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>Gestcobra</razonSocial>
+    <nombreComercial>Gestcobra Cia. Ltda.</nombreComercial>
+  </infoTributaria>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>125BJC-01</codigoPrincipal>
+      <codigoAuxiliar>1234D56789-A</codigoAuxiliar>
+      <descripcion>DERIVADOS PETRÓLEO</descripcion>
+      <cantidad>2.542563</cantidad>
+      <precioUnitario>25.542365</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>64.94</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ABCD" valor="EFGH"/>
+        <detAdicional nombre="ABCD" valor="EFGH"/>
+        <detAdicional nombre="ABCD" valor="EFGH"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+</factura>

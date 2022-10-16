@@ -1,0 +1,1 @@
+--{"Nombre":"SERCOTEX","Apellido":"ECUADOR","Usuario":"smsercotex","Pais":"Ecuador","Telefono":"999999936593","FechaNacimiento":"11/9/2009 12:00:00 AM","Saldo":null}----{"Nombre":"SERCOTEX","Apellido":"ECUADOR","Usuario":"smsercotex","Pais":"Ecuador","Telefono":"999999936593","FechaNacimiento":"11/9/2009 12:00:00 AM","Saldo":null}

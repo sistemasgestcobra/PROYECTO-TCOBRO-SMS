@@ -1,0 +1,28 @@
+[02-Feb-2018 17:19:52 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 36
+[02-Feb-2018 17:20:41 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 36
+[02-Feb-2018 17:20:54 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 36
+[02-Feb-2018 17:21:33 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 18
+[02-Feb-2018 17:23:22 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 18
+[02-Feb-2018 17:23:57 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 19
+[02-Feb-2018 17:24:21 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 27
+[02-Feb-2018 17:25:50 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 36
+[02-Feb-2018 17:26:15 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 36
+[02-Feb-2018 17:26:30 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 36
+[02-Feb-2018 17:27:01 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 36
+[02-Feb-2018 17:28:45 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 36
+[02-Feb-2018 17:29:03 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 36
+[02-Feb-2018 17:29:17 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 36
+[02-Feb-2018 17:29:37 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 34
+[02-Feb-2018 17:30:11 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 33
+[02-Feb-2018 17:30:38 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on null in /home/tcobro1/public_html/uploads/con.php on line 33
+[02-Feb-2018 18:07:20 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/tcobro1/public_html/uploads/con.php on line 43
+[02-Feb-2018 18:36:36 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/tcobro1/public_html/uploads/con.php on line 57
+[02-Feb-2018 18:37:30 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/tcobro1/public_html/uploads/con.php on line 57
+[02-Feb-2018 18:38:11 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/tcobro1/public_html/uploads/con.php on line 57
+[02-Feb-2018 18:38:28 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/tcobro1/public_html/uploads/con.php on line 57
+[02-Feb-2018 18:38:33 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/tcobro1/public_html/uploads/con.php on line 57
+[05-Feb-2018 15:38:57 America/Guayaquil] PHP Parse error:  syntax error, unexpected '}' in /home/tcobro1/public_html/uploads/con.php on line 61
+[05-Feb-2018 15:39:17 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home/tcobro1/public_html/uploads/con.php on line 59
+[05-Feb-2018 15:39:17 America/Guayaquil] PHP Warning:  Invalid argument supplied for foreach() in /home/tcobro1/public_html/uploads/con.php on line 74
+[05-Feb-2018 17:51:01 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/tcobro1/public_html/uploads/con.php on line 74
+[06-Feb-2018 10:43:52 America/Guayaquil] PHP Fatal error:  Call to a member function fetch_all() on boolean in /home/tcobro1/public_html/uploads/con.php on line 45

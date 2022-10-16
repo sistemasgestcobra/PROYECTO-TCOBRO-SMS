@@ -1,0 +1,141 @@
+.demo .footer, .home {
+  background-repeat: no-repeat;
+  background-position: 50% 0; }
+
+.select2-result-repository {
+  padding-top: 4px;
+  padding-bottom: 3px; }
+  .select2-result-repository__avatar {
+    float: left;
+    width: 60px;
+    margin-right: 10px; }
+    .select2-result-repository__avatar img {
+      width: 100%;
+      height: auto;
+      border-radius: 2px; }
+  .select2-result-repository__meta {
+    margin-left: 70px; }
+  .select2-result-repository__title {
+    color: black;
+    font-weight: bold;
+    word-wrap: break-word;
+    line-height: 1.1;
+    margin-bottom: 4px; }
+  .select2-result-repository__forks, .select2-result-repository__stargazers {
+    margin-right: 1em; }
+  .select2-result-repository__forks, .select2-result-repository__stargazers, .select2-result-repository__watchers {
+    display: inline-block;
+    color: #aaaaaa;
+    font-size: 11px; }
+  .select2-result-repository__description {
+    font-size: 13px;
+    color: #777777;
+    margin-top: 4px; }
+  .select2-highlighted .select2-result-repository__title {
+    color: white; }
+  .select2-highlighted .select2-result-repository__forks, .select2-highlighted .select2-result-repository__stargazers, .select2-highlighted .select2-result-repository__description, .select2-highlighted .select2-result-repository__watchers {
+    color: #c1d7e9; }
+
+a:hover, a:focus {
+  text-decoration: none; }
+
+.demo {
+  padding: 80px 30px 0; }
+  .demo .footer {
+    padding-top: 200px;
+    padding-bottom: 80px; }
+
+.home {
+  padding-bottom: 30px;
+  background-position: 50% 50%; }
+  .home body {
+    background-color: transparent; }
+  .home .container {
+    max-width: 700px; }
+
+.jumbotron {
+  background-color: transparent;
+  text-align: center;
+  font-weight: normal; }
+  .jumbotron-title {
+    margin-top: 40px;
+    font-size: 28px; }
+  .jumbotron h2 {
+    text-align: center;
+    font-size: 16px; }
+  .jumbotron hr {
+    border-color: #eeeeee;
+    width: 100px; }
+  .jumbotron .lead {
+    font-size: 16px; }
+    .jumbotron .lead a {
+      border-bottom: 1px solid transparent;
+      color: #337ab7;
+      font-weight: normal;
+      transition: all 0.1s ease-in-out; }
+      .jumbotron .lead a:hover {
+        border-color: #23527c;
+        border-width: 1px;
+        color: #23527c; }
+  .jumbotron .form-group {
+    background: none; }
+  .jumbotron .select2-wrapper {
+    width: 300px;
+    text-align: left;
+    margin: 0 auto 16px;
+    transition: all 0.1s ease-in-out; }
+  .jumbotron .btn-outline {
+    border-color: #337ab7;
+    font-size: inherit;
+    padding: 18px 24px;
+    transition: all 0.1s ease-in-out; }
+    .jumbotron .btn-outline:hover, .jumbotron .btn-outline:active {
+      color: white;
+      background-color: #337ab7; }
+  .jumbotron .btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.33;
+    border-radius: 6px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 0; }
+
+.footer-links {
+  margin-top: 16px;
+  margin-bottom: 0;
+  padding-bottom: 16px;
+  padding-left: 0;
+  list-style: none;
+  font-size: 14px; }
+  .footer-links li {
+    display: inline;
+    margin-left: 2px;
+    margin-right: 2px; }
+
+.footer {
+  text-align: center;
+  color: #cccccc; }
+  .footer a {
+    border-bottom: 1px solid transparent;
+    color: #337ab7;
+    font-weight: normal;
+    transition: all 0.1s ease-in-out; }
+    .footer a:hover {
+      border-color: #23527c;
+      border-width: 1px;
+      color: #23527c; }
+
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 20px; }
+    .jumbotron h1 {
+      font-size: 32px; }
+    .jumbotron .lead {
+      font-size: 20px; }
+    .jumbotron .btn-lg {
+      margin: 20px 0;
+      padding: 18px 24px;
+      font-size: 20px; } }

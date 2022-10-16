@@ -1,0 +1,62 @@
+        VALIDACION EN MODELOS
+        
+        ml_company_model:
+        
+	public static $validations = array(
+            array('field'=>'ruc', 'type' => 'length', 'min'=>'10'),
+            array('field'=>'razon_social', 'type' => 'presence'),
+            array('field'=>'nombre_comercial', 'type' => 'presence'),
+            array('field'=>'representante_legal', 'type' => 'presence'),
+            array('field'=>'emails', 'type' => 'presence'),
+	);
+        /* ===================================================================== */ 
+        ml_persona_model:
+        
+        public static $validations = array(
+            array('field'=>'tipo_ruc', 'type' => 'inclusion', 'list'=>array('1','2','3','4')),
+            array('field'=>'es_pasaporte', 'type' => 'inclusion', 'list'=>array('0','1')),
+            array('field'=>'dni', 'type' => 'presence'),
+            array('field'=>'nombres', 'type' => 'presence'),
+            array('field'=>'direccion', 'type' => 'presence'),
+	);
+        /* ===================================================================== */ 
+        ml_sricomprob:
+        
+        public static $validations = array(
+            array('field'=>'transaction_id', 'type' => 'presence'),
+            array('field'=>'client_id', 'type' => 'presence'),
+            array('field'=>'bodega_id', 'type' => 'presence'),
+            array('field'=>'current_date', 'type' => 'presence'),
+            array('field'=>'total_fact', 'type' => 'presence'),
+	);  
+
+        /* ===================================================================== */ 
+        ml_sricomprob_electronic:
+        public static $validations = array(
+            array('field'=>'estab', 'type' => 'presence'),
+            array('field'=>'pto_emi', 'type' => 'presence'),
+            array('field'=>'secuencial', 'type' => 'presence'),
+            array('field'=>'numero_autorizacion', 'type' => 'presence'),
+            array('field'=>'transaction_id', 'type' => 'presence'),
+            array('field'=>'doc_id', 'type' => 'presence'),
+            array('field'=>'is_electronic', 'type' => 'presence'),
+            array('field'=>'sri_comprobante_cod', 'type' => 'presence'),
+            array('field'=>'emision_date', 'type' => 'presence')
+	);  
+
+
+        /* ===================================================================== */ 
+        ml_salepoint_model:
+        
+        public static $validations = array(
+            array('field'=>'puntoemision', 'type' => 'presence'),
+            array('field'=>'establecimiento', 'type' => 'presence'),
+            array('field'=>'tiposcomprobante_cod', 'type' => 'presence')
+	);  
+
+        ml_product_model:
+        
+        public static $validations = array(
+            array('field'=>'name', 'type' => 'presence'),
+            array('field'=>'utility_porcent', 'type' => 'presence'),
+	);  
